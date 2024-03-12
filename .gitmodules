@@ -1,3 +1,6 @@
 [submodule "french-cleat-wall"]
 	path = french-cleat-wall
 	url = https://github.com/Fox-Wood/french-cleat-wall.git
+[submodule "french-cleat-clamp-holder"]
+	path = french-cleat-clamp-holder
+	url = https://github.com/Fox-Wood/french-cleat-clamp-holder.git
