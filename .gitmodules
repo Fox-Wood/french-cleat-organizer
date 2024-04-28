@@ -7,3 +7,6 @@
 [submodule "french-cleat-sandpaper-holder"]
 	path = french-cleat-sandpaper-holder
 	url = https://github.com/Fox-Wood/french-cleat-sandpaper-holder.git
+[submodule "french-cleat-router-holder"]
+	path = french-cleat-router-holder
+	url = https://github.com/Fox-Wood/french-cleat-router-holder.git
